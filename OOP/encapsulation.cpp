@@ -1,3 +1,4 @@
+// Encapsulation means bundling all data and methods of an object within a class, ensuring data security and controlled access.
 #include <bits/stdc++.h>
 using namespace std;
 

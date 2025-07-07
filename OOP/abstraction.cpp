@@ -1,3 +1,4 @@
+// Abstraction means hiding unnecessary details and showing only the essential features of an object or system.
 #include<bits/stdc++.h>
 using namespace std;
 
