@@ -1,0 +1,5 @@
+S: single responsibility principle(SRP)
+O:Open-close principle(OCP)
+L:Liskov Substitution principle(LSP)
+I:Inteface Segregation Principle(ISP)
+D:Dependency Inversion Principle(DIP)
